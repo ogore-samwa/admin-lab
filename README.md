@@ -4,7 +4,7 @@ A comprehensive technical guide summarizing user management, security architectu
 
 ---
 
-## 🛠️ Part 1: Windows 11 Systems Administration
+## Part 1: Windows 11 Systems Administration
 
 ### 1. Operating System Edition Limitations
 Windows 11 Home lacks native access to advanced administrative management consoles found in Professional or Enterprise editions.
@@ -29,7 +29,7 @@ System registration metadata is stored deterministically in the Windows Registry
 
 ---
 
-## 🐧 Part 2: Kali Linux User & Group Architecture
+## Part 2: Kali Linux User & Group Architecture
 
 ### 1. Account Creation and Privilege Escalation
 User account creation requires exact command syntax and proper token separation.
